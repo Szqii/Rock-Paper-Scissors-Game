@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo on live ❤️](https://beat-me-rps.netlify.app)
+- [Demo on live ❤️](https://beat-me-rps.netlify.app)
 
 ## Author
 
